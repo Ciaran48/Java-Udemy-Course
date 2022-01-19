@@ -46,8 +46,16 @@ public class Main {
         result /= 3;
         System.out.println(result);
 
-        result -=2;
+        result -= 2;
         System.out.println(result);
 
+        //if then statement, execute code if
+        //conditional statement
+        boolean isAlien = true;
+        if (isAlien == false) {
+            System.out.println("It is not an alien!");
+            System.out.println("I am afraid of aliens");//prints without a code block
+        }
+        
     }
 }
