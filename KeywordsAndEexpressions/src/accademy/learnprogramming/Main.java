@@ -7,9 +7,9 @@ public class Main {
         //Expressions
         //Write down the expressions of the code below
         int score = 100;
-        if (score > 99){
+        if (score > 99) {
             System.out.println("You got the high score!");
-            score=0;
+            score = 0;
         }
 
         //Answers
