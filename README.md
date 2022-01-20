@@ -22,18 +22,18 @@ Section 3: First Steps
   -Casting in Java ✓
   -Primitive Types Challenge ✓
   -float and double Primitive Types ✓
-  -Floating Point Precision and a Challenge
-  -The char and boolean Primitive Data Types
-  -Primitive Types Recap and the String Data Type
-  -Operators, Operands and Expressions
-  -Abbreviating Operators
-  -if-then Statement
-  -Logical and Operator
-  -Logical OR Operator
-  -Assignment Operator VS Equals to Operator
-  -Ternary Operator
-  -Operator Precedence and Operator Challenge
-  -First Steps Summary
+  -Floating Point Precision and a Challenge ✓
+  -The char and boolean Primitive Data Types ✓
+  -Primitive Types Recap and the String Data Type ✓
+  -Operators, Operands and Expressions ✓
+  -Abbreviating Operators ✓
+  -if-then Statement ✓
+  -Logical and Operator ✓
+  -Logical OR Operator ✓
+  -Assignment Operator VS Equals to Operator ✓
+  -Ternary Operator ✓
+  -Operator Precedence and Operator Challenge ✓
+  -First Steps Summary ✓
 
 Section 4: 
   -Introduction
@@ -65,3 +65,36 @@ Section 4:
   -Minutes To Years and Days Calculator
   -Equality Printer
   -Playing Cat
+  
+Section 5:
+    -Introduction
+    -The switch statement (+Challenge Exercise)
+    -Day of the Week Challenge
+    -Number In Word
+    -Number Of Days In Month
+    -The for Statement (+Challenge Exercise)
+    -For Loop Recap
+    -Sum 3 and 5 Challenge
+    -Sum Odd
+    -The while and do while statements (+Challenge Exercise)
+    -While and Do While Recap
+    -Digit Sum Challenge
+    -Number Palindrome
+    -First And Last Digit Sum
+    -Even Digit Sum
+    -Shared Digit
+    -Last Digit Checker
+    -Greatest Common Divisor
+    -All Factors
+    -Perfect Number
+    -Number To Words
+    -Parsing Values from a String
+    -Flour Pack Problem
+    -Largest Prime
+    -Diagonal Star
+    -Reading User Input
+    -Problems and Solutions
+    -Reading User Input Challenge
+    -Min and Max Challenge
+    -Input Calculator
+    -Paint Job
