@@ -41,12 +41,12 @@
 \  -Code Blocks And The If Then Else Control Statements ✓
 \  -if then else Recap ✓
 \  -Methods In Java ✓
-\  -More On Methods And A Challenge
-\  -Method Challenge - Final Code Changes
-\  -DiffMerge Tool Introduction
-\  -Install DiffMerge
-\  -Using DiffMerge
-\  -Coding Exercises
+\  -More On Methods And A Challenge ✓
+\  -Method Challenge - Final Code Changes ✓
+\  -DiffMerge Tool Introduction ✓
+\  -Install DiffMerge ✓
+\  -Using DiffMerge ✓
+\  -Coding Exercises ✓
 \  -Coding Exercises Example Part 1
 \  -Coding Exercises Example Part 2
 \  -Coding Exercises Example Part 3
