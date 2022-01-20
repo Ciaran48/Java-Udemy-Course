@@ -22,18 +22,18 @@ Section 3: First Steps
   -Casting in Java ✓
   -Primitive Types Challenge ✓
   -float and double Primitive Types ✓
-  -Floating Point Precision and a Challenge
-  -The char and boolean Primitive Data Types
-  -Primitive Types Recap and the String Data Type
-  -Operators, Operands and Expressions
-  -Abbreviating Operators
-  -if-then Statement
-  -Logical and Operator
-  -Logical OR Operator
-  -Assignment Operator VS Equals to Operator
-  -Ternary Operator
-  -Operator Precedence and Operator Challenge
-  -First Steps Summary
+  -Floating Point Precision and a Challenge ✓
+  -The char and boolean Primitive Data Types ✓
+  -Primitive Types Recap and the String Data Type ✓
+  -Operators, Operands and Expressions ✓
+  -Abbreviating Operators ✓
+  -if-then Statement ✓
+  -Logical and Operator ✓
+  -Logical OR Operator ✓
+  -Assignment Operator VS Equals to Operator ✓
+  -Ternary Operator ✓
+  -Operator Precedence and Operator Challenge ✓
+  -First Steps Summary ✓
 
 Section 4: 
   -Introduction
