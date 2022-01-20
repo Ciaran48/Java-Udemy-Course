@@ -74,12 +74,48 @@ public class Main {
         //assignment vs equal to operators
         int newValue = 50;
         if (newValue == 50) {
-            System.out.println("This is true");
+            System.out.println("New Value is true");
         }
 
         boolean isCar = false;
-        if (!isCar) {
+        if (isCar) {
             System.out.println("This is not supposed to happen");
         }
+
+
+        //Ternary Operator,
+        //shortcut to assign value to variable
+        //3 operands
+        // if is car is true, set was car to true or else set it to false
+        boolean wasCar = isCar ? true : false;
+        if (wasCar) {
+            System.out.println("WasCar is true");
+        }
+
+        //Summary challenge
+        //create a double with value 20.00 and 80.00
+        //add both numbers together and multiply by 100
+        //remainder of the result and 40
+        //create a boolean that's true if remainder 0 else false
+        //output the boolean
+        //write an if statement
+
+        double num1 = 20.00;
+        double num2 = 80.00;
+        double num3 = (num1 + num2) * 100.00;
+        System.out.println(num3);
+        double remainder = num3 % 40.00;
+        System.out.println(remainder);
+
+        boolean isRemainderZero;
+
+        if (remainder == 0){
+            isRemainderZero = true;
+            System.out.println(isRemainderZero);
+        }else{
+            isRemainderZero = false;
+            System.out.println(isRemainderZero);}
+
+
     }
 }
