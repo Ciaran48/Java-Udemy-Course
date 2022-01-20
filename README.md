@@ -1,16 +1,16 @@
 # Java-Udemy-Course
-Udemy course progress to help me upskill my java programming.
-
-Course can be found at https://www.udemy.com/course/java-the-complete-java-developer-course/
-
-IDE IntelliJ
-JDK Amazon Corretto Version 11.0.13
-
-Section 1 introduction to Course: ✓
-
-Section 2 Software Tools Setup: ✓
-
-Section 3 First Steps:
+\Udemy course progress to help me upskill my java programming.
+\
+\Course can be found at https://www.udemy.com/course/java-the-complete-java-developer-course/
+\
+\IDE IntelliJ
+\JDK Amazon Corretto Version 11.0.13
+\
+\Section 1 introduction to Course: ✓
+\
+\Section 2 Software Tools Setup: ✓
+\
+\Section 3 First Steps:
   -Introduction ✓
   -Hello World Project ✓
   -Defining the Main Method ✓
