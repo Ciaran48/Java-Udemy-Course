@@ -1,6 +1,7 @@
 package accademy.learnprogramming;
 
 import static accademy.learnprogramming.BarkingDog.shouldWakeUp;
+import static accademy.learnprogramming.DecimalComparator.areEqualByThreeDecimalPlaces;
 import static accademy.learnprogramming.LeapYearCalculator.isLeapYear;
 import static accademy.learnprogramming.MegaBytesConverter.printMegaBytesAndKiloBytes;
 import static accademy.learnprogramming.SpeedConverter.printConversion;
@@ -31,6 +32,9 @@ public class Main {
         /*LeapYearCalculator
         System.out.println(isLeapYear(2000));
         System.out.println(isLeapYear(2017));*/
+
+        //DecimalComparator
+        //System.out.println(areEqualByThreeDecimalPlaces(3.175, 3.176));
 
     }
 
