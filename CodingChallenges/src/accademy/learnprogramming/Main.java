@@ -7,6 +7,8 @@ import static accademy.learnprogramming.LeapYearCalculator.isLeapYear;
 import static accademy.learnprogramming.MegaBytesConverter.printMegaBytesAndKiloBytes;
 import static accademy.learnprogramming.SpeedConverter.printConversion;
 import static accademy.learnprogramming.SpeedConverter.toMilesPerHour;
+import static accademy.learnprogramming.TeenNumberChecker.hasTeen;
+import static accademy.learnprogramming.TeenNumberChecker.isTeen;
 
 public class Main {
 
@@ -39,6 +41,11 @@ public class Main {
 
         //EqualSumChecker
         //System.out.println(hasEqualSum(1, -1, 0));
+
+       /* System.out.println(isTeen(16));
+        System.out.println(isTeen(20));
+        System.out.println(hasTeen(22, 16, 20));
+        System.out.println(hasTeen(22, 20, 20));*/
 
     }
 
