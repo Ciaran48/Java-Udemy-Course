@@ -1,5 +1,6 @@
 package accademy.learnprogramming;
 
+import static accademy.learnprogramming.MegaBytesConverter.printMegaBytesAndKiloBytes;
 import static accademy.learnprogramming.SpeedConverter.printConversion;
 import static accademy.learnprogramming.SpeedConverter.toMilesPerHour;
 
@@ -16,6 +17,7 @@ public class Main {
         toMilesPerHour(1.25);
         printConversion(1.25);*/
 
+        printMegaBytesAndKiloBytes(5000);
 
     }
 
