@@ -1,6 +1,7 @@
 package accademy.learnprogramming;
 
 import static accademy.learnprogramming.BarkingDog.shouldWakeUp;
+import static accademy.learnprogramming.LeapYearCalculator.isLeapYear;
 import static accademy.learnprogramming.MegaBytesConverter.printMegaBytesAndKiloBytes;
 import static accademy.learnprogramming.SpeedConverter.printConversion;
 import static accademy.learnprogramming.SpeedConverter.toMilesPerHour;
@@ -26,6 +27,10 @@ public class Main {
         /*DogBarkingChallenge
         shouldWakeUp(true, 22);
         shouldWakeUp(false, 22);*/
+
+        /*LeapYearCalculator
+        System.out.println(isLeapYear(2000));
+        System.out.println(isLeapYear(2017));*/
 
     }
 
