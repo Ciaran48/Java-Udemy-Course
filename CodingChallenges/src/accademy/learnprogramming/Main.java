@@ -5,6 +5,7 @@ import static accademy.learnprogramming.DecimalComparator.areEqualByThreeDecimal
 import static accademy.learnprogramming.EqualSumChecker.hasEqualSum;
 import static accademy.learnprogramming.LeapYearCalculator.isLeapYear;
 import static accademy.learnprogramming.MegaBytesConverter.printMegaBytesAndKiloBytes;
+import static accademy.learnprogramming.SecondsAndMinutesChallenge.getDurationString;
 import static accademy.learnprogramming.SpeedConverter.printConversion;
 import static accademy.learnprogramming.SpeedConverter.toMilesPerHour;
 import static accademy.learnprogramming.TeenNumberChecker.hasTeen;
@@ -46,6 +47,9 @@ public class Main {
         System.out.println(isTeen(20));
         System.out.println(hasTeen(22, 16, 20));
         System.out.println(hasTeen(22, 20, 20));*/
+
+        getDurationString(77, 9);
+        getDurationString(77);
 
     }
 
