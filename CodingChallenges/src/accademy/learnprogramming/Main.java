@@ -4,6 +4,7 @@ import static accademy.learnprogramming.AreaCalculator.area;
 import static accademy.learnprogramming.BarkingDog.shouldWakeUp;
 import static accademy.learnprogramming.DecimalComparator.areEqualByThreeDecimalPlaces;
 import static accademy.learnprogramming.EqualSumChecker.hasEqualSum;
+import static accademy.learnprogramming.EqualityPrinter.printEqual;
 import static accademy.learnprogramming.LeapYearCalculator.isLeapYear;
 import static accademy.learnprogramming.MegaBytesConverter.printMegaBytesAndKiloBytes;
 import static accademy.learnprogramming.MinutesToYearsAndDaysCalculator.printYearsAndDays;
@@ -56,10 +57,15 @@ public class Main {
 
        /* AreaCalculator
        System.out.println(area(5.0));
-        System.out.println(area(5.0, 4.0));*/
+       System.out.println(area(5.0, 4.0));*/
 
         // MinutesToYearsAndDaysCalculator
         // printYearsAndDays(525600);
+
+        /* EqualityPrinter
+        printEqual(1,2,3);
+        printEqual(1,1,1);
+        printEqual(1,1,3);*/
 
 
     }
