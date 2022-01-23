@@ -8,6 +8,7 @@ import static accademy.learnprogramming.EqualityPrinter.printEqual;
 import static accademy.learnprogramming.LeapYearCalculator.isLeapYear;
 import static accademy.learnprogramming.MegaBytesConverter.printMegaBytesAndKiloBytes;
 import static accademy.learnprogramming.MinutesToYearsAndDaysCalculator.printYearsAndDays;
+import static accademy.learnprogramming.PlayingCat.isCatPlaying;
 import static accademy.learnprogramming.SecondsAndMinutesChallenge.getDurationString;
 import static accademy.learnprogramming.SpeedConverter.printConversion;
 import static accademy.learnprogramming.SpeedConverter.toMilesPerHour;
@@ -66,6 +67,11 @@ public class Main {
         printEqual(1,2,3);
         printEqual(1,1,1);
         printEqual(1,1,3);*/
+
+        /*PlayingCat
+        isCatPlaying(true, 10);
+        isCatPlaying(false, 36);
+        isCatPlaying(false, 35); */
 
 
     }
