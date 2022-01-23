@@ -6,6 +6,7 @@ import static accademy.learnprogramming.DecimalComparator.areEqualByThreeDecimal
 import static accademy.learnprogramming.EqualSumChecker.hasEqualSum;
 import static accademy.learnprogramming.LeapYearCalculator.isLeapYear;
 import static accademy.learnprogramming.MegaBytesConverter.printMegaBytesAndKiloBytes;
+import static accademy.learnprogramming.MinutesToYearsAndDaysCalculator.printYearsAndDays;
 import static accademy.learnprogramming.SecondsAndMinutesChallenge.getDurationString;
 import static accademy.learnprogramming.SpeedConverter.printConversion;
 import static accademy.learnprogramming.SpeedConverter.toMilesPerHour;
@@ -56,6 +57,9 @@ public class Main {
        /* AreaCalculator
        System.out.println(area(5.0));
         System.out.println(area(5.0, 4.0));*/
+
+        // MinutesToYearsAndDaysCalculator
+        // printYearsAndDays(525600);
 
 
     }
