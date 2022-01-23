@@ -1,5 +1,6 @@
 package accademy.learnprogramming;
 
+import static accademy.learnprogramming.AreaCalculator.area;
 import static accademy.learnprogramming.BarkingDog.shouldWakeUp;
 import static accademy.learnprogramming.DecimalComparator.areEqualByThreeDecimalPlaces;
 import static accademy.learnprogramming.EqualSumChecker.hasEqualSum;
@@ -48,8 +49,14 @@ public class Main {
         System.out.println(hasTeen(22, 16, 20));
         System.out.println(hasTeen(22, 20, 20));*/
 
+        /* SecondsAndMinutesChallenge
         getDurationString(77, 9);
-        getDurationString(77);
+        getDurationString(77);*/
+
+       /* AreaCalculator
+       System.out.println(area(5.0));
+        System.out.println(area(5.0, 4.0));*/
+
 
     }
 
