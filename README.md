@@ -47,27 +47,27 @@
 \  -Install DiffMerge ✓
 \  -Using DiffMerge ✓
 \  -Coding Exercises ✓
-\  -Coding Exercises Example Part 1
-\  -Coding Exercises Example Part 2
-\  -Coding Exercises Example Part 3
-\  -Speed Converter
-\  -MegaBytes Converter
-\  -Barking Dog
-\  -Leap Year Calculator
-\  -DecimalComparator
-\  -Equal Sum Checker
-\  -Teen Number Checker
-\  -Method Overloading
-\  -Method Overloading Recap
-\  -Seconds and Minutes Challenge
-\  -Bonus Challenge Solution
-\  -Area Calculator
-\  -Minutes To Years and Days Calculator
-\  -Equality Printer
-\  -Playing Cat
+\  -Coding Exercises Example Part 1 ✓
+\  -Coding Exercises Example Part 2 ✓
+\  -Coding Exercises Example Part 3 ✓
+\  -Speed Converter ✓
+\  -MegaBytes Converter ✓
+\  -Barking Dog ✓
+\  -Leap Year Calculator ✓
+\  -DecimalComparator ✓
+\  -Equal Sum Checker ✓
+\  -Teen Number Checker ✓
+\  -Method Overloading ✓
+\  -Method Overloading Recap ✓
+\  -Seconds and Minutes Challenge ✓
+\  -Bonus Challenge Solution ✓
+\  -Area Calculator ✓
+\  -Minutes To Years and Days Calculator ✓
+\  -Equality Printer ✓
+\  -Playing Cat ✓
 \  
 \Section 5 Control Flow Statements:
-\    -Introduction
+\    -Introduction ✓
 \    -The switch statement (+Challenge Exercise)
 \    -Day of the Week Challenge
 \    -Number In Word
