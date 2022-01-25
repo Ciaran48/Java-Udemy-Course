@@ -5,6 +5,7 @@ import static accademy.learnprogramming.DayOfTheWeekChallenge.printDayOfTheWeek;
 import static accademy.learnprogramming.DayOfTheWeekChallenge.printDayOfTheWeekBonus;
 import static accademy.learnprogramming.NumberOfDaysInAMonth.getDaysInMonth;
 import static accademy.learnprogramming.NumberOfDaysInAMonth.isLeapYear;
+import static accademy.learnprogramming.SumOdd.sumOdd;
 
 public class Main {
 
@@ -32,6 +33,13 @@ public class Main {
         System.out.println(getDaysInMonth(2, 2018));
         System.out.println(getDaysInMonth(-1, 2020));
         System.out.println(getDaysInMonth(1, -2020));*/
+
+        /*SumOddChallenge
+        System.out.println(sumOdd(1, 100));
+        System.out.println(sumOdd(-1, 100));
+        System.out.println(sumOdd(100, 100));
+        System.out.println(sumOdd(13, 13));*/
+
 
 
 
