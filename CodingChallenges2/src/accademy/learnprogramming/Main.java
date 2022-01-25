@@ -3,6 +3,8 @@ package accademy.learnprogramming;
 import static accademy.NumberInWord.printNumberInWord;
 import static accademy.learnprogramming.DayOfTheWeekChallenge.printDayOfTheWeek;
 import static accademy.learnprogramming.DayOfTheWeekChallenge.printDayOfTheWeekBonus;
+import static accademy.learnprogramming.DigitSumChallenge.sumDigits;
+import static accademy.learnprogramming.IsEvenNumber.isEvenNumber;
 import static accademy.learnprogramming.NumberOfDaysInAMonth.getDaysInMonth;
 import static accademy.learnprogramming.NumberOfDaysInAMonth.isLeapYear;
 import static accademy.learnprogramming.SumOdd.sumOdd;
@@ -39,6 +41,19 @@ public class Main {
         System.out.println(sumOdd(-1, 100));
         System.out.println(sumOdd(100, 100));
         System.out.println(sumOdd(13, 13));*/
+
+
+        /*Is even number challenge
+        System.out.println(isEvenNumber(23));
+        System.out.println(isEvenNumber(2));
+        System.out.println(isEvenNumber(100));
+        System.out.println(isEvenNumber(101));*/
+
+        /*DigitSumChallenge
+        System.out.println(sumDigits(100));
+        System.out.println(sumDigits(101));
+        System.out.println(sumDigits(-101));
+        System.out.println(sumDigits(100800700));*/
 
 
 
