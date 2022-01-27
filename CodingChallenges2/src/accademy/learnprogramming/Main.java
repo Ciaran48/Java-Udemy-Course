@@ -14,6 +14,8 @@ import static accademy.learnprogramming.LastDigitChecker.isValid;
 import static accademy.learnprogramming.NumberOfDaysInAMonth.getDaysInMonth;
 import static accademy.learnprogramming.NumberOfDaysInAMonth.isLeapYear;
 import static accademy.learnprogramming.NumberPalindrome.isPalindrome;
+import static accademy.learnprogramming.NumberToWords.*;
+import static accademy.learnprogramming.PerfectNumber.isPerfectNumber;
 import static accademy.learnprogramming.SharedDigit.hasSharedDigit;
 import static accademy.learnprogramming.SumOdd.sumOdd;
 
@@ -106,5 +108,29 @@ public class Main {
         printFactors(32);
         printFactors(10);
         printFactors(-1);*/
+
+        /*PerfectNumberChallenge
+        System.out.println(isPerfectNumber(6));
+        System.out.println(isPerfectNumber(28));
+        System.out.println(isPerfectNumber(5));
+        System.out.println(isPerfectNumber(-1));*/
+
+        /*NumberToWordsChallenge
+        System.out.println(getDigitCount(0));
+        System.out.println(getDigitCount(10));
+        System.out.println(getDigitCount(-100));
+        System.out.println(getDigitCount(2323));
+
+        System.out.println(reverse(-121));
+        System.out.println(reverse(1212));
+        System.out.println(reverse(1234));
+        System.out.println( reverse(100));
+
+        numberToWords(123);
+        numberToWords(-123);
+        numberToWords(1000);
+        numberToWords(0);*/
+
+
     }
 }
